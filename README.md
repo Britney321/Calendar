@@ -21,6 +21,8 @@ schedule, so I think it would be interesting to build my own.
 - As a user, I want the option to save the calendar 
 - As a user, I want the option of loading a previously made calendar 
 
+## Setup 
+
 - You can generate the first required action related to the user story "I want to be able to add an event 
 to the calendar" by inputting the name, date, time and duration into the text fields and pressing the "Add Event button"
 Note: year, month, time, and duration must be integers 
@@ -32,7 +34,4 @@ of events on a certain day" by putting adding the date to the text fields and cl
 
 # Citation 
 Image taken from https://www.flaticon.com/free-icon/calendar_4781427 
-no exception handling. For example, only integers from 1-12 are accepted for the month of an event, however, there is 
-nothing that informs the user if an invalid input has been made and causes errors. By adding exception handling, these 
-errors could be prevented. Possible exception handling would be for the date inputs and duplicate names of the same 
-event or task. 
+
