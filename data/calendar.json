@@ -1,0 +1,16 @@
+{
+    "events": [{
+        "duration": 1,
+        "month": 1,
+        "year": 1,
+        "name": "A",
+        "time": 1,
+        "day": 1
+    }],
+    "tasks": [{
+        "month": 1,
+        "year": 1,
+        "name": "A",
+        "day": 1
+    }]
+}

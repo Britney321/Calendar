@@ -1,0 +1,34 @@
+{
+    "events": [
+        {
+            "duration": 1,
+            "month": 1,
+            "year": 2023,
+            "name": "A",
+            "time": 1,
+            "day": 1
+        },
+        {
+            "duration": 2,
+            "month": 2,
+            "year": 2023,
+            "name": "B",
+            "time": 2,
+            "day": 2
+        }
+    ],
+    "tasks": [
+        {
+            "month": 1,
+            "year": 2023,
+            "name": "A",
+            "day": 1
+        },
+        {
+            "month": 2,
+            "year": 2023,
+            "name": "B",
+            "day": 2
+        }
+    ]
+}
